@@ -75,11 +75,23 @@ This Power BI dashboard provides an integrated solution.
 
 ## 📸 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/e839a65e-c9db-4df1-bbfe-c36c5ff08f01)
+![image](https://github.com/user-attachments/assets/bbd46057-f4c3-45fa-b03f-aec75c010a15)
 
-![image](https://github.com/user-attachments/assets/56fb2a98-d8e5-4846-9ffa-45472f8a8a23)
+![image](https://github.com/user-attachments/assets/8f3d2148-a97b-411d-884f-77d88794cc24)
 
-![image](https://github.com/user-attachments/assets/4809fa37-6f27-4110-99ab-d523e559d038)
+![image](https://github.com/user-attachments/assets/63efc49b-2166-41bd-8706-9cb996a5dadc)
+
+![image](https://github.com/user-attachments/assets/fbb8624f-40e0-4faf-86a6-9bd0cd8d2d04)
+
+![image](https://github.com/user-attachments/assets/ab3c5fe3-0e91-4bd3-b810-eb73d478018)
+
+![image](https://github.com/user-attachments/assets/66bb3dea-6d1e-4386-80bc-faf8b3c3f971)
+
+
+
+
+
+
 
 ---
 
