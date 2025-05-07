@@ -35,7 +35,10 @@ This Power BI dashboard provides an integrated solution.
 - **Cover Page**
 - **Overview**
 - **Talent Acquisition**
+- **Hiring Pipeline**
+- **Hiring based on Geo**
 - **Conclusion**
+
 
 ### 🔹 Visual Highlights (Talent Acquisition Tab)
 - **Job Role Filter** – dynamic filtering by role
